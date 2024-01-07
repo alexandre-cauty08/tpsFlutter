@@ -13,7 +13,6 @@
     <td align="center">Demo - TP1-TP2</td>
     <td align="center">Demo - TP3</td>
     <td align="center">Demo - TP3</td>
-    <td align="center">Demo - TP3</td>
   </tr>
   <tr>
     <td><img src="./tp1.gif?raw=true" width=270 height=480></td>
